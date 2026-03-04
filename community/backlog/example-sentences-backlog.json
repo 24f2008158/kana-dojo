@@ -510,7 +510,7 @@
     "jlpt": "N4",
     "id": 57,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この問題は思ったより難しくなかった。",
@@ -554,7 +554,7 @@
     "english": "A new cafe opened near the station.",
     "jlpt": "N4",
     "id": 62,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
