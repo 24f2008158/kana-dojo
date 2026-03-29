@@ -23,7 +23,7 @@
     "explanation": "コンセント means electrical outlet. (Set 1)",
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 3,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -32,7 +32,7 @@
     "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 1)",
     "example": "彼はスマートな着こなしをしている。",
     "id": 4,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -96,7 +96,7 @@
     "example": "ノートにシールを貼った。",
     "id": 11,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
@@ -276,7 +276,7 @@
     "example": "ノートにシールを貼った。",
     "id": 31,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
@@ -455,8 +455,8 @@
     "explanation": "シール usually means sticker/label. (Set 3)",
     "example": "ノートにシールを貼った。",
     "id": 51,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
@@ -482,7 +482,7 @@
     "explanation": "Often means trying something new. (Set 3)",
     "example": "新しい料理にチャレンジしてみる。",
     "id": 54,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -636,7 +636,7 @@
     "example": "ノートにシールを貼った。",
     "id": 71,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
@@ -653,7 +653,7 @@
     "explanation": "Used to comfort someone: 'never mind'. (Set 4)",
     "example": "ミスしてもドンマイ！",
     "id": 73,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -662,7 +662,7 @@
     "explanation": "Often means trying something new. (Set 4)",
     "example": "新しい料理にチャレンジしてみる。",
     "id": 74,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -816,7 +816,7 @@
     "example": "ノートにシールを貼った。",
     "id": 91,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
@@ -996,7 +996,7 @@
     "example": "ノートにシールを貼った。",
     "id": 111,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
